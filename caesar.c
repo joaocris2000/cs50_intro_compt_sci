@@ -82,18 +82,4 @@ char rotate(char letter, int k)
             new_letter=(new_letter-123)+97;
         }
     }
-}
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
